@@ -1,0 +1,2 @@
+# nixpacks (Railway) — no build step needed
+# start: Procfile → web: python app.py
